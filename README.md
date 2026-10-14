@@ -116,5 +116,5 @@ Python, FastAPI, Pydantic, Ollama (qwen2.5:7b-instruct), pytest, Docker.
 
 ---
 
-See [`INTERVIEW_PREP_README.md`](INTERVIEW_PREP_README.md) for a detailed breakdown of
-every design decision, the tradeoffs involved, and likely interview questions.
+See [`DESIGN_DECISIONS.md`](DESIGN_DECISIONS.md) for the main engineering trade-offs,
+known limitations and the next reliability improvements.
